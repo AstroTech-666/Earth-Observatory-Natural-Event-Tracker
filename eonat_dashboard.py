@@ -43,7 +43,7 @@ st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootst
 # Navbar
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="padding-left:400px;">
-    <a class="navbar-brand" href="https://streamlit.io/" target="_blank">VISUAL</a>
+    <a class="navbar-brand" href="https://earth-observatory-natural-event-tracker.streamlit.app" target="_blank">VISUAL</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
